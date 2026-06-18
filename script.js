@@ -2,7 +2,7 @@
 const CONFIG_WP = {
   phone: "573000000000", // <- Reemplazar con el número real del Maestro
   message:
-    "Saludos Maestro José de los Ángeles. Solicito su guía y poder espiritual para una consulta privada.",
+    "Saludos Maestro Juan de los Ángeles. Solicito su guía y poder espiritual para una consulta privada.",
 };
 
 function getWhatsAppLink() {
