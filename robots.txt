@@ -1,0 +1,11 @@
+# robots.txt para transporte-gs.com
+User-agent: *
+Allow: /
+
+# Permite también AdsBot (si usas campañas que apunten al sitio)
+User-agent: AdsBot-Google
+Allow: /
+
+# Mapa del sitio
+Sitemap: https://maestrojuandelossantos.com/sitemap.xml
+
