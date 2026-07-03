@@ -1,6 +1,6 @@
 // Configuración de WhatsApp orientada a Colombia por defecto para despliegue local
 const CONFIG_WP = {
-  phone: "573000000000", // <- Reemplazar con el número real del Maestro
+  phone: "50241805184",
   message:
     "Saludos Maestro Juan de los Santos. Solicito su guía y poder espiritual para una consulta privada.",
 };
